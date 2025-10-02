@@ -1,3 +1,3 @@
 module go-devops-engineer-magistr-lesson1-tpl
 
-go 1.25.1
+go 1.22.8
